@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Doc/images/head-user.jpg</file>
+        <file>Doc/images/750-1334.jpg</file>
+        <file>Doc/images/devswitch-on.svg</file>
+        <file>Doc/images/devswitch-off.svg</file>
+    </qresource>
+</RCC>

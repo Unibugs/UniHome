@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/Dev.qml</file>
+        <file>QML/Login.qml</file>
+        <file>QML/LoginForm.ui.qml</file>
+        <file>QML/SmartHome.qml</file>
+        <file>QML/User.qml</file>
+        <file>QML/DevAERDialog.qml</file>
+        <file>QML/DevAERDialogForm.ui.qml</file>
+        <file>QML/DevDetail.qml</file>
+        <file>QML/DevDetailForm.ui.qml</file>
+    </qresource>
+</RCC>
